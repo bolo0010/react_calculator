@@ -1,0 +1,33 @@
+@import 'mixins';
+.key
+    font-size: 25px;
+    border: 1px solid gray;
+    font-family: monospace;
+    padding: 10px 0;
+    margin: 0.5px;
+    box-shadow: 0 0 1.5px grey;
+    text-align: center;
+    flex-grow: 1;
+    cursor: pointer;
+    transition: background-color 0.1s, color 0.2s;
+    &:hover
+        background-color: #66a3ce;
+        color: white;
+.Reset
+    flex-basis: 32%;
+.Delete
+    flex-basis: 32%;
+.Division
+    flex-basis: 32%;
+.Seven, .Eight, .Nine, .Multiplication,.Four,.Five,.Six,.Subtraction,.One,.Two,.Three,.Addition,.Opposite,.Zero,.Point, .Equal
+    flex-basis: 24%;
+
+@media (min-height: 1023px)
+    .key
+        @include key(75px, 35px, 75px)
+@media (min-width: 768px)
+    .key
+        @include key(75px, 35px, 75px)
+@media (min-width: 1024px)
+    .key
+        @include key(120px, 35px, 120px)
