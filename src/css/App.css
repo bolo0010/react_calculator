@@ -112,4 +112,16 @@ body {
     font-size: 40px;
   }
 }
+
+@media (min-width: 1024px) {
+  body {
+    width: 50%;
+  }
+}
+
+@media (max-width: 320px) {
+  body {
+    width: 95%;
+  }
+}
 /*# sourceMappingURL=App.css.map */
