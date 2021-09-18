@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Key = ({ id, key_fun, key_name, click }) => {
+const Key = ({id, key_fun, key_name, click}) => {
 	return (
 		<div
 			className={`${key_name} ${'key'}`}

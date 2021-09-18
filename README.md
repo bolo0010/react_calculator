@@ -1,2 +1,5 @@
 ## Simple calculator
-Create in React.js and Sass.
+
+Create on React and Sass.
+
+##### License: [MIT](https://choosealicense.com/licenses/mit/)

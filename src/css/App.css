@@ -1,127 +1,129 @@
 body {
-  width: 90%;
-  margin: auto;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  position: relative;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+    width: 90%;
+    margin: auto;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .key {
-  font-size: 25px;
-  border: 1px solid gray;
-  font-family: monospace;
-  padding: 10px 0;
-  margin: 0.5px;
-  -webkit-box-shadow: 0 0 1.5px grey;
-          box-shadow: 0 0 1.5px grey;
-  text-align: center;
-  -webkit-box-flex: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
-  cursor: pointer;
-  -webkit-transition: background-color 0.1s, color 0.2s;
-  transition: background-color 0.1s, color 0.2s;
+    font-size: 25px;
+    border: 1px solid gray;
+    font-family: monospace;
+    padding: 10px 0;
+    margin: 0.5px;
+    -webkit-box-shadow: 0 0 1.5px grey;
+    box-shadow: 0 0 1.5px grey;
+    text-align: center;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    cursor: pointer;
+    -webkit-transition: background-color 0.1s, color 0.2s;
+    transition: background-color 0.1s, color 0.2s;
 }
 
 .key:hover {
-  background-color: #66a3ce;
-  color: white;
+    background-color: #66a3ce;
+    color: white;
 }
 
 .Reset {
-  -ms-flex-preferred-size: 32%;
-      flex-basis: 32%;
+    -ms-flex-preferred-size: 32%;
+    flex-basis: 32%;
 }
 
 .Delete {
-  -ms-flex-preferred-size: 32%;
-      flex-basis: 32%;
+    -ms-flex-preferred-size: 32%;
+    flex-basis: 32%;
 }
 
 .Division {
-  -ms-flex-preferred-size: 32%;
-      flex-basis: 32%;
+    -ms-flex-preferred-size: 32%;
+    flex-basis: 32%;
 }
 
 .Seven, .Eight, .Nine, .Multiplication, .Four, .Five, .Six, .Subtraction, .One, .Two, .Three, .Addition, .Opposite, .Zero, .Point, .Equal {
-  -ms-flex-preferred-size: 24%;
-      flex-basis: 24%;
+    -ms-flex-preferred-size: 24%;
+    flex-basis: 24%;
 }
 
 @media (min-height: 1023px) {
-  .key {
-    height: 75px;
-    font-size: 35px;
-    line-height: 75px;
-  }
+    .key {
+        height: 75px;
+        font-size: 35px;
+        line-height: 75px;
+    }
 }
 
 @media (min-width: 768px) {
-  .key {
-    height: 75px;
-    font-size: 35px;
-    line-height: 75px;
-  }
+    .key {
+        height: 75px;
+        font-size: 35px;
+        line-height: 75px;
+    }
 }
 
 @media (min-width: 1024px) {
-  .key {
-    height: 120px;
-    font-size: 35px;
-    line-height: 120px;
-  }
+    .key {
+        height: 120px;
+        font-size: 35px;
+        line-height: 120px;
+    }
 }
 
 .keyboard {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .screen {
-  width: 100%;
-  height: 7vh;
-  background-color: #f2f2f2;
-  margin: 20px auto;
+    width: 100%;
+    height: 7vh;
+    background-color: #f2f2f2;
+    margin: 20px auto;
 }
 
 .screen__numbers {
-  display: block;
-  font-family: 'hack', 'arial';
-  font-weight: bold;
-  height: 7vh;
-  width: 95%;
-  text-align: right;
-  line-height: 7vh;
-  font-size: 30px;
+    display: block;
+    font-family: 'hack', 'arial';
+    font-weight: bold;
+    height: 7vh;
+    width: 95%;
+    text-align: right;
+    line-height: 7vh;
+    font-size: 30px;
 }
 
 @media (min-width: 1024px) {
-  .screen {
-    height: 10vh;
-  }
-  .screen__numbers {
-    line-height: 10vh;
-    font-size: 40px;
-  }
+    .screen {
+        height: 10vh;
+    }
+
+    .screen__numbers {
+        line-height: 10vh;
+        font-size: 40px;
+    }
 }
 
 @media (min-width: 1024px) {
-  body {
-    width: 50%;
-  }
+    body {
+        width: 50%;
+    }
 }
 
 @media (max-width: 320px) {
-  body {
-    width: 95%;
-  }
+    body {
+        width: 95%;
+    }
 }
+
 /*# sourceMappingURL=App.css.map */
