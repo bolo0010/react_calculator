@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96358662-17bb-40d0-8fd1-f0a2a96ad05c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Key.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Key.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keyboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Keyboard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/App.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/App.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/_Key.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/_Key.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/_Keyboard.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/_Keyboard.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/_Screen.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/_Screen.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_mixins.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/_mixins.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/_mixins.sass" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="5265" />
+    <option name="totalTimeSeconds" value="8748" />
     <option name="naggedAbout" value="1" />
   </component>
   <component name="Git.Settings">
@@ -99,7 +92,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\bolo0\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="standardjs.codestyle.accepted" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -131,7 +124,7 @@
       <workItem from="1631374895737" duration="3119000" />
       <workItem from="1631438859739" duration="210000" />
       <workItem from="1631439206499" duration="1408000" />
-      <workItem from="1631962378348" duration="1199000" />
+      <workItem from="1631962378348" duration="4647000" />
     </task>
     <servers />
   </component>
@@ -164,6 +157,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package-lock.json">
