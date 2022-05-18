@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96358662-17bb-40d0-8fd1-f0a2a96ad05c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Screen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Screen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/App.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/App.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_Key.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/_Key.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_Keyboard.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/_Keyboard.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_Screen.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/_Screen.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_mixins.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="8748" />
+    <option name="totalTimeSeconds" value="8814" />
     <option name="naggedAbout" value="1" />
   </component>
   <component name="Git.Settings">
@@ -124,7 +118,9 @@
       <workItem from="1631374895737" duration="3119000" />
       <workItem from="1631438859739" duration="210000" />
       <workItem from="1631439206499" duration="1408000" />
-      <workItem from="1631962378348" duration="4647000" />
+      <workItem from="1631962378348" duration="4713000" />
+      <workItem from="1644516789780" duration="1102000" />
+      <workItem from="1652879748324" duration="416000" />
     </task>
     <servers />
   </component>
